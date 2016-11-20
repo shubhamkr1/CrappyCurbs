@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Query_US" type="id" />
+    <item name="Query_CA" type="id" />
+    <item name="Query_FR" type="id" />
+    <item name="Query_AU" type="id" />
+    <item name="Query_BR" type="id" />
+</resources>
